@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory-game/static/css/main.a3d0d1fd.css",
+    "main.css": "/memory-game/static/css/main.b70b5dbd.css",
     "main.js": "/memory-game/static/js/main.cd8efe4b.js",
     "static/media/Roboto-Regular.ttf": "/memory-game/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/minato.webp": "/memory-game/static/media/minato.b9a92978a8b4d5775a53.webp",
@@ -24,11 +24,11 @@
     "static/media/shikamaru.webp": "/memory-game/static/media/shikamaru.fac3ee049f8bc6b7ad0c.webp",
     "static/media/pain.webp": "/memory-game/static/media/pain.9035089bec9d566ebbfe.webp",
     "index.html": "/memory-game/index.html",
-    "main.a3d0d1fd.css.map": "/memory-game/static/css/main.a3d0d1fd.css.map",
+    "main.b70b5dbd.css.map": "/memory-game/static/css/main.b70b5dbd.css.map",
     "main.cd8efe4b.js.map": "/memory-game/static/js/main.cd8efe4b.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3d0d1fd.css",
+    "static/css/main.b70b5dbd.css",
     "static/js/main.cd8efe4b.js"
   ]
 }
