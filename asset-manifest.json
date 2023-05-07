@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/memory-game/static/css/main.b70b5dbd.css",
-    "main.js": "/memory-game/static/js/main.cd8efe4b.js",
+    "main.css": "/memory-game/static/css/main.43b8413c.css",
+    "main.js": "/memory-game/static/js/main.52e78fd5.js",
     "static/media/Roboto-Regular.ttf": "/memory-game/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/minato.webp": "/memory-game/static/media/minato.b9a92978a8b4d5775a53.webp",
+    "static/media/kiba.webp": "/memory-game/static/media/kiba.491864a6231131ea4f1e.webp",
     "static/media/might_guy.webp": "/memory-game/static/media/might_guy.02722e3d58c99a17be8a.webp",
     "static/media/sakura.webp": "/memory-game/static/media/sakura.c7499e08809117c604d4.webp",
+    "static/media/konan.webp": "/memory-game/static/media/konan.8a72a1947415bcf29a23.webp",
     "static/media/naruto.webp": "/memory-game/static/media/naruto.cfedb56481ca6fdec2e9.webp",
     "static/media/tsunade.webp": "/memory-game/static/media/tsunade.c3fbb18e4911b3a45db4.webp",
     "static/media/neji.webp": "/memory-game/static/media/neji.c3c5788ca89d4e9c7c28.webp",
@@ -24,11 +26,11 @@
     "static/media/shikamaru.webp": "/memory-game/static/media/shikamaru.fac3ee049f8bc6b7ad0c.webp",
     "static/media/pain.webp": "/memory-game/static/media/pain.9035089bec9d566ebbfe.webp",
     "index.html": "/memory-game/index.html",
-    "main.b70b5dbd.css.map": "/memory-game/static/css/main.b70b5dbd.css.map",
-    "main.cd8efe4b.js.map": "/memory-game/static/js/main.cd8efe4b.js.map"
+    "main.43b8413c.css.map": "/memory-game/static/css/main.43b8413c.css.map",
+    "main.52e78fd5.js.map": "/memory-game/static/js/main.52e78fd5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b70b5dbd.css",
-    "static/js/main.cd8efe4b.js"
+    "static/css/main.43b8413c.css",
+    "static/js/main.52e78fd5.js"
   ]
 }
