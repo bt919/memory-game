@@ -22,6 +22,8 @@ const Card = (props) => {
     "Might Guy",
     "Tsunade",
     "Hidan",
+    "Konan",
+    "Kiba",
   ];
   const characters = Characters(characterNames[props.index]);
 

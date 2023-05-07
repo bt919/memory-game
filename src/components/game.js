@@ -3,7 +3,7 @@ import Scoreboard from "./scoreboard";
 import Cards from "./cards";
 
 const Game = () => {
-  const cards = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
+  const cards = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17];
 
   const [clickedCards, setClickedCards] = useState(Array(16).fill(false));
   const [randomCards, setRandomCards] = useState([]);
@@ -34,7 +34,7 @@ const Game = () => {
       cards[i] = cards[random];
       cards[random] = temp;
     }
-    setRandomCards(cards.slice(0, 9));
+    setRandomCards(cards);
   }, [currentScore]);
 
   return (

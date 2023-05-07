@@ -18,6 +18,8 @@ import orochimaru from "../images/orochimaru.webp";
 import guy from "../images/might_guy.webp";
 import tsunade from "../images/tsunade.webp";
 import hidan from "../images/hidan.webp";
+import konan from "../images/konan.webp";
+import kiba from "../images/kiba.webp";
 
 const Characters = (character) => {
   const characters = {
@@ -41,6 +43,8 @@ const Characters = (character) => {
     "Might Guy": guy,
     Tsunade: tsunade,
     Hidan: hidan,
+    Konan: konan,
+    Kiba: kiba,
   };
 
   return [character, characters[character]];
