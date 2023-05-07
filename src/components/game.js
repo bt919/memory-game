@@ -5,7 +5,7 @@ import Cards from "./cards";
 const Game = () => {
   const cards = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17];
 
-  const [clickedCards, setClickedCards] = useState(Array(16).fill(false));
+  const [clickedCards, setClickedCards] = useState(Array(18).fill(false));
   const [randomCards, setRandomCards] = useState([]);
   const [currentScore, setCurrentScore] = useState(0);
   const [currentHighscore, setCurrentHighscore] = useState(0);
@@ -13,7 +13,7 @@ const Game = () => {
   const handleClick = (index) => {
     if (clickedCards[index]) {
       setCurrentScore(0);
-      setClickedCards(Array(16).fill(false));
+      setClickedCards(Array(18).fill(false));
     } else {
       setCurrentScore(currentScore + 1);
       if (currentScore + 1 > currentHighscore)
